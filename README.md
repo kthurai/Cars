@@ -5,4 +5,5 @@
   <li>Break Caliper pin: </li>
   <li>Bolt pattern (PCD): 5 × 114.3 mm </li>
   <li>Lug nut / stud size: M12 × 1.25</li>
+  <li>Center Bore (Hub Bore): 56.1 mm</li>
 </ul>
