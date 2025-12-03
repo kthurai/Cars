@@ -21,7 +21,7 @@
 
 <H3>2019 Subaru Forester Sport - Oil Change information</H3>
     <ul>
-        <li>Oil Drain Plug: 14mm or 17mm<li>
+        <li>Oil Drain Plug: 14mm or 17mm</li>
         <li>Oil Type: 0W-20</li>
         <li>Oil Drain Plug: 30 lbf-ft</li>
         <li>Oil Filter Torque: 12 lbf-ft</li>        
