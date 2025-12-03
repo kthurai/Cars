@@ -14,10 +14,17 @@
 
 <H3>2019 Subaru Forester Sport - Oil Filter Model</H3>
     <ul>
-        <li>Castro CAS7317<li>
+        <li>Castro CAS7317</li>
         <li>PUROLATOR TECH TL14615</li>
         <li>MotoMaster MPH7317</li>
     </ul>
+
+<H3>2019 Subaru Forester Sport - Oil Change information</H3>
+    <ul>
+        <li>Oil Drain Plug: 14mm or 17mm<li>
+        <li></li>
+        <li></li>
+    </ul>    
 
 <H3>2019 Subaru Forester Sport - Wheel information</H3>
     <ul>
@@ -30,15 +37,32 @@
 
 <H3>2019 Subaru Forester Sport - Front Breaks and Torque Specs</H3>
     <ul>
-        <li>Front Caliber Bracket Mount: 66-81 lbf-ft-</li>
-        <li>Front Caliber pin: 20-22 lbf-ft</li>
-        <li>Front Break hose line bolt: 17-21 lbf-ft</li>
-        <li>Front Break Bleeding Screw: 12-13 lbf-ft</li>
+        <li>Front Caliber Bracket Mount: 99 lbf-ft-</li>
+        <li>Front Caliber pin: 19.9 lbf-ft</li>
+        <li>Front Break hose line bolt: 17-21 lbf-ft ??</li>
+        <li>Front Break Bleeding Screw: 5.9 lbf-ft</li>
     </ul>
 <H3>2019 Subaru Forester Sport - Rear Breaks and Torque Specs</H3>
     <ul>
-        <li>Front Caliber Bracket Mount: 38-48 lbf-ft-</li>
-        <li>Front Caliber pin: 17-19 lbf-ft</li>
-        <li>Front Break hose line bolt: 17-21 lbf-ft</li>
-        <li>Front Break Bleeding Screw: 12-13 lbf-ft</li>
+        <li>Front Caliber Bracket Mount: 53 lbf-ft-</li>
+        <li>Front Caliber pin: 18.4 lbf-ft</li>
+        <li>Front Break hose line bolt: 17-21 lbf-ft ??</li>
+        <li>Front Break Bleeding Screw: 12.5 lbf-ft</li>
+        <li>Break Rear  Parking break actuator: 5.9 ft-lb  </li>
+    </ul>
+ 
+<H3>Tire Size</H33>
+<ul>
+    <li>225/60R17 99H  (Front 33psi, Rear 32 psi)</li>
+    <li>* 225/55R18 98H (Front 35 psi, Rear 33 psi)</li>
+</ul>
+
+<H3>All other information</H3>
+    <ul>
+        <li>Engine Model: FB25 (2.5L,DOHC, non-turbo)</li>
+        <li>Engine Coolant: SUBARU Super Coolant 9.0 US qt (8.5 Liters)</li>
+        <li>Battery type: Q85</li>
+        <li>Spark Plug: DILKAR7Q8 (NGK)</li>
+        <li>Break Fluid: FMVSS No. 116, DOT 3 or DOT 4</li>
+        <li>Fuel Tank Capacity: 16.6 gal (63 liter)</li>
     </ul>
