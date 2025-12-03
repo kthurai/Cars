@@ -24,6 +24,8 @@
         <li>Oil Drain Plug: 14mm or 17mm<li>
         <li>Oil Type: 0W-20</li>
         <li>Oil Drain Plug: 30 lbf-ft</li>
+        <li>Oil Filter Torque: 12 lbf-ft</li>        
+        <li>Oil capacity with oil filter: 4.2L (4.4 qt)</li>
     </ul>    
 
 <H3>2019 Subaru Forester Sport - Wheel information</H3>
