@@ -1,6 +1,24 @@
 
 <a href=2019SubaruForester/2019SubaruForester_wheel.png>2019SubaruForester_wheel</a>
 
+<H3>2019 Subaru Forester Sport Service information</H3>
+<H2>Nov 9-2025</H2>
+<ul>
+    <li>Oil changed: Yes 
+    <li>Odometer: 153,855 KM</li>
+    <li>Oil Filter Changed: Yes
+    <li>Winter Tire Rotated: Yes</li>
+    <li>Windshield Fluid topped off: yes </li>
+    <li>Break serviced: no</li>
+</ul>
+
+<H3>2019 Subaru Forester Sport - Oil Filter Model</H3>
+    <ul>
+        <li>Castro CAS7317<li>
+        <li>PUROLATOR TECH TL14615</li>
+        <li>MotoMaster MPH7317</li>
+    </ul>
+
 <H3>2019 Subaru Forester Sport - Wheel information</H3>
     <ul>
         <li>Wheel Nut Torque: 89 lbf-ft </li>
