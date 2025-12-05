@@ -17,6 +17,7 @@
         <li>Castro CAS7317</li>
         <li>PUROLATOR TECH TL14615</li>
         <li>MotoMaster MPH7317</li>
+        <li>Mobil 1™ Extended Performance Oil Filter M1-108A</li>
     </ul>
 
 <H3>2019 Subaru Forester Sport - Oil Change information</H3>
